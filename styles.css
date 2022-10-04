@@ -1,9 +1,13 @@
+* {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
 img {
     height:auto;
     width:500px;
 }
 
 h1 {
-    color:blue;
-    background-color: black;
+    color:#00bdf2;
+    background-color: transparent;
 }
