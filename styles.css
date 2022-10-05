@@ -4,7 +4,18 @@
 
 img {
     height:auto;
-    width:500px;
+    width:auto;
+    margin: auto;
+    display: block;
+    background-color:transparent;
+}
+
+.logo{
+    width: 250px;
+}
+
+.header {
+    background-color: #00bdf2;
 }
 
 h1 {
